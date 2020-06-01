@@ -7,3 +7,12 @@ My name is Hsiang Lin (Sharon).  I am a junior software engineer/web development
 * Biking
 * Beach
 * Dancing: Argentine tango and salsa
+
+
+# Profile links
+https://www.linkedin.com/in/hsiang-sharon-lin-b971211a/
+
+# Technical Skills
+*Git commands
+*Simple basic CSS
+*Some HTML knowledge 
