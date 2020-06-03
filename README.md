@@ -14,7 +14,24 @@ My name is Hsiang Lin (Sharon).  I am a junior software engineer/web development
 *[Linkedin] (https://www.linkedin.com/in/hsiang-sharon-lin-b971211a/)
 *[GitHub] https://github.com/starlit79/about-me
 
+=======
+
+## For-fun 
+* Swimming
+* Hiking
+* Biking
+* Beach :beach_umbrella:
+
+* Dancing: Argentine tango and salsa :dancer:
+
+
+## Profile links
+* Linkedin: https://www.linkedin.com/in/hsiang-sharon-lin-b971211a/
+
+* GitHub: https://github.com/starlit79/about-me
+
 ## Technical Skills
-*Some Git commands
-*Simple basic CSS
-*Some HTML knowledge
+* Basic Git bash commands
+* Simple basic CSS
+* Some HTML knowledge
+* Basic use of GitHub
