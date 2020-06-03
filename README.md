@@ -9,22 +9,6 @@ My name is Hsiang Lin (Sharon).  I am a junior software engineer/web development
 
 * Dancing: Argentine tango and salsa :dancer:
 
-
-## Profile links
-*[Linkedin] (https://www.linkedin.com/in/hsiang-sharon-lin-b971211a/)
-*[GitHub] https://github.com/starlit79/about-me
-
-=======
-
-## For-fun 
-* Swimming
-* Hiking
-* Biking
-* Beach :beach_umbrella:
-
-* Dancing: Argentine tango and salsa :dancer:
-
-
 ## Profile links
 * [Linkedin] https://www.linkedin.com/in/hsiang-sharon-lin-b971211a/
 
